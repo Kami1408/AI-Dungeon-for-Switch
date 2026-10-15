@@ -1,0 +1,4 @@
+owner: latitudegames
+repo: ai-dungeon-electron
+provider: github
+updaterCacheDirName: ai-dungeon-electron-updater
